@@ -19,7 +19,7 @@ Version 2.3 -
 
 - Updated to Python 3.11.
 - Added As-Salamu Alaikum as a copyable text.
-- Removed vowels from Alhamdulillah and Jazakallah Khairan.
+- Removed vowels from Alhamdulillah and Jazakallahu Khairan.
 - Changed the UI colors.
 - Changed the UI font.
 - Polished some code.
