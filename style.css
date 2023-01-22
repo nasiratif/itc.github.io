@@ -67,7 +67,7 @@ content {
     text-align: center;
 }
 
-content p {
+content p, li {
     line-height: 30px;
 }
 

@@ -1,3 +1,9 @@
+Version 2.4 -
+- The app now has proper DPI scaling support.
+- Polished some code.
+- Made slight changes to the sizes of fonts.
+- Added more tooltips for some buttons.
+
 Version 2.3.4 -
 
 - Updated to use the new ITC website to check for updates and used as the homepage.
