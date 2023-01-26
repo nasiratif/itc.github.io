@@ -1,3 +1,6 @@
+Version 2.5 -
+- Added In sha Allah as a copyable text.
+
 Version 2.4 -
 - The app now has proper DPI scaling support.
 - Polished some code.
