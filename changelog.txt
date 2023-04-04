@@ -1,3 +1,9 @@
+Version 4.0 -
+
+- Completely rewritten in C++, and includes a new text (Subhanallah). Alhamdulillah.
+
+  Barakallahu feekum.
+
 Version 3.0 -
 
 - This isn't technically an update, rather it is a complete new rewrite of the software, alhamdulillah. As a bonus, there's also a new text included in this version (Radi Allahu Anhuma)!
