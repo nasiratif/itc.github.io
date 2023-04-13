@@ -50,7 +50,7 @@ main {
 }
 
 .demo {
-    filter: brightness(75%) blur(0.8px);
+    filter: brightness(75%) blur(0.3px);
     display: block;
     width: 100%;
     border-bottom-left-radius: 20px;
