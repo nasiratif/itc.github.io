@@ -1,3 +1,8 @@
+Version 4.1 -
+
+- Now compiled as 32-bit instead of 64-bit.
+- Added Wa Iyyāk as a copyable text.
+
 Version 4.0 -
 
 - Completely rewritten in C++, and includes a new text (Subhanallah). Alhamdulillah.
