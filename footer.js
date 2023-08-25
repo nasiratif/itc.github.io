@@ -1,1 +1,1 @@
-document.getElementById("main-cr").innerHTML = "© itc.nasiratif.net 1444-1445AH (all dates are displayed in Hijrī)";
+document.getElementById("main-cr").innerHTML = "© itc.nasiratif.net 1444/1445AH (all dates are displayed in Hijrī)";
