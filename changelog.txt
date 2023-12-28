@@ -1,3 +1,8 @@
+Version 4.2 -
+
+- Polished some code.
+- Improved the spelling of Wa Iyyak (it is now Wa Iyyakum instead).
+
 Version 4.1 -
 
 - Now compiled as 32-bit instead of 64-bit.
