@@ -1,3 +1,14 @@
+Version 4.3 -
+
+- Major architectural changes to the program's backend, improving the code dramatically and making it much more convenient for me to add new texts. Alhamdulillah!
+- Added new texts such as:
+  - Wa Alaikum As-Salam
+  - As Salamu Alaikum Wa Rahmatullahi Wa Barakatuh
+  - Wa Alaikum As-Salam Wa Rahmatullahi Wa Barakatuh
+  - Allahumma Barik
+  - Allahumma Ameen
+- In sha-Allah's hotkey has been altered (it is now ALT + / instead of ALT + ] due to Wa Alaikum As-Salam using that)
+
 Version 4.2 -
 
 - Polished some code.
