@@ -1,3 +1,9 @@
+Version 4.4 -
+
+- The backend now uses the WinINet API to check for updates rather than using the URLDownloadToFile function.
+- Other backend changes.
+- Fixed documentation to use correct author spelling.
+
 Version 4.3 -
 
 - Major architectural changes to the program's backend, improving the code dramatically and making it much more convenient for me to add new texts. Alhamdulillah!
